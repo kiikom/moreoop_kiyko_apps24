@@ -2,6 +2,8 @@ package lotr;
 
 import java.util.Random;
 
+import lotr.Character;
+
 
 
 public class King extends Character {
